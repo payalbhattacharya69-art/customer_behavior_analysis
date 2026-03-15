@@ -1,8 +1,6 @@
 # customer_behavior_analysis
 data analysis project showcasing customer behavior analysis using python, sql and power Bi.
 
-Here is a **simple, professional, recruiter-friendly README** you can use for your **Data Analytics Project**.
-
 ---
 
 # Data Analytics Project
@@ -218,4 +216,3 @@ It highlights practical skills in **Python, SQL, and Power BI**, making it suita
 
 ---
 
-If you want, I can also help you create a **🔥 stronger “GitHub-ready” README that looks like a real Data Analyst portfolio project (with badges, images, folder structure, and screenshots).** That will impress recruiters much more.
