@@ -41,7 +41,6 @@ The dataset is used to analyze **sales trends, customer behavior, and revenue pa
 This project uses the following tools:
 
 * **Programming:** Python
-* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 * **Databases:** PostgreSQL / MySQL / Microsoft SQL Server
 * **Visualization:** Microsoft Power BI Desktop
 * **Presentation:** Gamma
